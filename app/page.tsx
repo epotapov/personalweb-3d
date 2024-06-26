@@ -69,7 +69,7 @@ function Status() {
     </Text>
     <Text fontSize={1} letterSpacing={-0.025} color={color2} position={[0, -2, -10]} onPointerOver={() => setIsHovered2(true)}
         onPointerOut={() => setIsHovered2(false)}>
-      under construction
+      Welcome!
     </Text>
     </>
   )
